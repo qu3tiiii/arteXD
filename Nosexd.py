@@ -16,4 +16,4 @@ for colores in ("blue", "blue4", "firebrick4", "firebrick", "BlueViolet", "DarkO
     turtle.color(colores)
     turtle.circle(100)
     turtle.left(10)
-    turtle.hideturtle()
+
